@@ -1,0 +1,15 @@
+
+  img.bookimg {
+    width: 100%;
+    height: 179px;
+    margin: auto;
+    outline: none;
+    background-position: center;
+    background-size: cover;
+}
+
+.shadow-sm.border.border-gray-200.rounded-sm {
+    width: 100%;
+    height: 300px;
+}
+
